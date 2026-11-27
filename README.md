@@ -127,7 +127,7 @@ The screenshots below demonstrate the process of creating and merging my pull re
   
 ## Importance of Commit Messages:
 
-  Commit messages are there to help programmers understand code and resolve issues in the future.
+Commit messages help developers understand what changes were made, why they were made and identify issues in the future.
   
  ## Rules:
   1. **Use descriptive languagess**: Messages should explain what and why it has been commited.
