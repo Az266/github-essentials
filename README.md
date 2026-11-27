@@ -154,7 +154,7 @@ C --> D[Create or update files]
 D --> E[git status]
 E --> F[git add filename or git add .]
 F --> id1>git add is for a specific file git add . is  for all the files]
-id1--> G[git commit -m "meaningful message"]
+id1--> G[git commit -m meaningful message]
 
 
 G --> H{Is it your first time setting up repo?}
